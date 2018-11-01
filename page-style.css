@@ -1,0 +1,19 @@
+
+    body{ background-color:rgb(16, 132, 7);
+    
+    }
+    h1{text-align: center;
+      background: border-box rgb(255,255,255);
+      border: 5px solid rgb(124, 91, 33);
+      border-radius: 5px;
+      width: 150px;
+      
+    
+    }
+    p{ color:brown; text-align: justify;     
+      background: border-box rgb(124, 91, 33);
+      background-color:gray;
+      height: 20px;
+    }
+  
+  
