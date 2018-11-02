@@ -10,11 +10,13 @@
       
     
     }
-    p{ color:brown; text-align: justify;     
+    p{
+      color:brown;
+      text-align: justify;     
       background: border-box rgb(124, 91, 33);
-      background-color:gray;
       height: 20px;
     }
+
     .bidoof{
         position: relative;
            
