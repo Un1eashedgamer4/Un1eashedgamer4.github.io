@@ -16,7 +16,7 @@
       height: 20px;
     }
     .bidoof{
-        position: absolute;
+        position: relative;
         float: left;    
     }
   
